@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ultra-stack Software Engineer | IoT Zealot | AI/Machine Learning Enthusiast | Blockchain Explorer | Data Scienctist In Progress | Patent Awardee | Tireless Learner !
+Ultra-stack Software Engineer - IoT Zealot - AI/Machine Learning Enthusiast - Blockchain Explorer - Data Scienctist In Progress - Patent Awardee - Tireless Learner - And the list goes on!
 
 ### More Information
 
