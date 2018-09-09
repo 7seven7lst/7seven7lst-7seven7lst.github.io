@@ -31,3 +31,6 @@ Deploy NodeJS App to AWS EC2.
 8. Navigate to the url
   a. copy the url
   b. type <url>:3001 and see the result
+9. Don't forget to shutdown the EC2 instance
+  a. Stop the instance
+  b. Terminate the instance
