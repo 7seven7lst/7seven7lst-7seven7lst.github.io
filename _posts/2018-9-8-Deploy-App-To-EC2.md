@@ -24,6 +24,10 @@ Deploy NodeJS App to AWS EC2.
   ```bash
   sudo git clone https://github.com/7seven7lst/demo-ec2-nodejs.git
   ```
+  2. alternatively, you can also scp a directory into the ec2 instance (if you are using ubuntu instance):
+  ```bash
+  scp -i <your_PEM_key> -r <your_project_folder>/* ubuntu@e<ec2_public_dns>:/home/ubuntu
+  ```
 * Install relavent packages needed to run app.
   0. > Note, if you are not using Ubuntu, but some other linux server, you may have "yum" as package manager, instead of "apt-get". In this case, type "sudo yum update", etc....
   1. ```bash
