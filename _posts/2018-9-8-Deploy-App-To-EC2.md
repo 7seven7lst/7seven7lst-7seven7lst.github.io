@@ -60,6 +60,9 @@ Deploy NodeJS App to AWS EC2.
 * Navigate to the url
   1. copy the url ![copy url]({{ site.baseurl }}/images/deploy_ec2/obtain_app_url.png "copy url")
   2. In brower addres bar, type `<url>:3001` and see the result
+* Navigating to observe dashboard chart and coudwatch
+  1. dashboard ![ec2 dashboard]({{ site.baseurl }}/images/deploy_ec2/ec2_dashboard.png "ec2 dashboard")
+  2. cloudwatch monitoring ![cloudwatch monitoring]({{ site.baseurl }}/images/deploy_ec2/cloudwatch_monitoring.png "cloudwatch monitoring")
 * Don't forget to shutdown the EC2 instance
   1. Stop the instance ![shutdown EC2]({{ site.baseurl }}/images/deploy_ec2/shutdown_EC2.png "shutdown EC2")
   2. Terminate the instance
